@@ -1,0 +1,232 @@
+{
+  "certs": [
+    {
+      "id": "6cb5735fd951adb4216f742f3f6e77bf",
+      "subject": "text-analysis.txt",
+      "analysisResult": {
+        "human_probability": 0.09447126090526581,
+        "ai_probability": 0.905528724193573,
+        "confidence": 0.905528724193573,
+        "verdict": "AI-Likely",
+        "explanation": "Text analyzed with 90.55% confidence using roberta-base-openai-detector model",
+        "ok": true,
+        "type": "text"
+      },
+      "classification": "AI-Generated",
+      "fileType": "txt",
+      "timestamp": "2026-03-27T19:58:51.223Z",
+      "verificationUrl": "http://localhost:4000/api/certificate/verify/6cb5735fd951adb4216f742f3f6e77bf",
+      "authenticityLink": "https://ai-trustchain.vercel.app/verify/6cb5735fd951adb4216f742f3f6e77bf",
+      "txHash": "0x337b277295fd0199cdfece47f63e97f14bc51f8c53a26db08d957d58f1f9cc1c"
+    },
+    {
+      "id": "74348605de9fbd06766ec56d92987600",
+      "subject": "text-analysis.txt",
+      "analysisResult": {
+        "human_probability": 0.11956474184989929,
+        "ai_probability": 0.8804352879524231,
+        "confidence": 0.8804352879524231,
+        "verdict": "AI-Likely",
+        "explanation": "Text analyzed with 88.04% confidence using roberta-base-openai-detector model",
+        "ok": true,
+        "type": "text"
+      },
+      "classification": "AI-Generated",
+      "fileType": "txt",
+      "timestamp": "2026-03-27T20:00:42.687Z",
+      "verificationUrl": "http://localhost:4000/api/certificate/verify/74348605de9fbd06766ec56d92987600",
+      "authenticityLink": "https://ai-trustchain.vercel.app/verify/74348605de9fbd06766ec56d92987600",
+      "txHash": "0x32058ee328390549bca0b57b99b6305b158efd57e79f8d2ba0c6b8e597bd84d5"
+    },
+    {
+      "id": "94758b2d4c94f403b3aff288421fcfbe",
+      "subject": "text-analysis.txt",
+      "analysisResult": {
+        "human_probability": 0.9162018895149231,
+        "ai_probability": 0.08379805833101273,
+        "confidence": 0.9162018895149231,
+        "verdict": "Human-Likely",
+        "explanation": "Text analyzed with 91.62% confidence using roberta-base-openai-detector model",
+        "ok": true,
+        "type": "text"
+      },
+      "classification": "Human-Generated",
+      "fileType": "txt",
+      "timestamp": "2026-03-27T20:01:15.118Z",
+      "verificationUrl": "http://localhost:4000/api/certificate/verify/94758b2d4c94f403b3aff288421fcfbe",
+      "authenticityLink": "https://ai-trustchain.vercel.app/verify/94758b2d4c94f403b3aff288421fcfbe",
+      "txHash": "0xeb0206138277bf53c98f23ab600c7578f83d1c97b8306585b1de7f1ad46cce49"
+    },
+    {
+      "id": "830ab2b36b2383bfa5b9fba398d6fda5",
+      "subject": "text-analysis.txt",
+      "analysisResult": {
+        "human_probability": 0.04207400605082512,
+        "ai_probability": 0.9579260349273682,
+        "confidence": 0.9579260349273682,
+        "verdict": "AI-Likely",
+        "explanation": "Text analyzed with 95.79% confidence using roberta-base-openai-detector model",
+        "ok": true,
+        "type": "text"
+      },
+      "classification": "AI-Generated",
+      "fileType": "txt",
+      "timestamp": "2026-03-27T20:02:41.874Z",
+      "verificationUrl": "http://localhost:4000/api/certificate/verify/830ab2b36b2383bfa5b9fba398d6fda5",
+      "authenticityLink": "https://ai-trustchain.vercel.app/verify/830ab2b36b2383bfa5b9fba398d6fda5",
+      "txHash": "0x31c8ac891675a0c0d23636b6f12233d5b93e16946348cc047727745fa5c042c3"
+    },
+    {
+      "id": "50f3bf0d749df51abc50a2ff6bd54277",
+      "subject": "text-analysis.txt",
+      "analysisResult": {
+        "human_probability": 0.36420419812202454,
+        "ai_probability": 0.6357958912849426,
+        "confidence": 0.6357958912849426,
+        "verdict": "AI-Likely",
+        "explanation": "Text analyzed with 63.58% confidence using roberta-base-openai-detector model",
+        "ok": true,
+        "type": "text"
+      },
+      "classification": "AI-Generated",
+      "fileType": "txt",
+      "timestamp": "2026-03-27T20:06:05.776Z",
+      "verificationUrl": "http://localhost:4000/api/certificate/verify/50f3bf0d749df51abc50a2ff6bd54277",
+      "authenticityLink": "https://ai-trustchain.vercel.app/verify/50f3bf0d749df51abc50a2ff6bd54277",
+      "txHash": "0x573c6b9c12988cb1263b24bcd327e4571b1ada2a5c9ffe5016f903d025b40eaf"
+    },
+    {
+      "id": "02295cf430818d077cdcb6ee05bb2cff",
+      "subject": "text-analysis.txt",
+      "analysisResult": {
+        "human_probability": 0.8606007099151611,
+        "ai_probability": 0.13939930498600006,
+        "confidence": 0.8606007099151611,
+        "verdict": "Human-Likely",
+        "explanation": "Text analyzed with 86.06% confidence using roberta-base-openai-detector model",
+        "ok": true,
+        "type": "text"
+      },
+      "classification": "Human-Generated",
+      "fileType": "txt",
+      "timestamp": "2026-03-27T20:07:24.996Z",
+      "verificationUrl": "http://localhost:4000/api/certificate/verify/02295cf430818d077cdcb6ee05bb2cff",
+      "authenticityLink": "https://ai-trustchain.vercel.app/verify/02295cf430818d077cdcb6ee05bb2cff",
+      "txHash": "0xb07f8a920e7dc36bbe79f787476db325a4bb57d71ee7c69b9261e45c6f4279ab"
+    },
+    {
+      "id": "5aff81d68afbb55e8a1d11933a8cdd4c",
+      "subject": "text-analysis.txt",
+      "analysisResult": {
+        "human_probability": 0.06263461709022522,
+        "ai_probability": 0.9373653531074524,
+        "confidence": 0.9373653531074524,
+        "verdict": "AI-Likely",
+        "explanation": "Text analyzed with 93.74% confidence using roberta-base-openai-detector model",
+        "ok": true,
+        "type": "text"
+      },
+      "classification": "AI-Generated",
+      "fileType": "txt",
+      "timestamp": "2026-03-27T20:28:25.161Z",
+      "verificationUrl": "http://localhost:4000/api/certificate/verify/5aff81d68afbb55e8a1d11933a8cdd4c",
+      "authenticityLink": "https://ai-trustchain.vercel.app/verify/5aff81d68afbb55e8a1d11933a8cdd4c",
+      "txHash": "0x5d4292af588205e9be3c125a5444eadac77e887f0cdc3f454e03a31bb1de258d"
+    },
+    {
+      "id": "e362a2b699490415eafe72953eaf2d42",
+      "subject": "text-analysis.txt",
+      "analysisResult": {
+        "human_probability": 0.06263461709022522,
+        "ai_probability": 0.9373653531074524,
+        "confidence": 0.9373653531074524,
+        "verdict": "AI-Likely",
+        "explanation": "Text analyzed with 93.74% confidence using roberta-base-openai-detector model",
+        "ok": true,
+        "type": "text"
+      },
+      "classification": "AI-Generated",
+      "fileType": "txt",
+      "timestamp": "2026-03-28T06:08:52.174Z",
+      "verificationUrl": "http://localhost:4000/api/certificate/verify/e362a2b699490415eafe72953eaf2d42",
+      "authenticityLink": "https://ai-trustchain.vercel.app/verify/e362a2b699490415eafe72953eaf2d42",
+      "txHash": "0x105800ec84454e3f663a1c6d1eacad5578ef90c5f516ad872903eb8564433bbf"
+    },
+    {
+      "id": "b2192e2ab8813ffea4e24b4570e28106",
+      "subject": "text-analysis.txt",
+      "analysisResult": {
+        "human_probability": 0.00016947067342698574,
+        "ai_probability": 0.9998304843902588,
+        "confidence": 0.9998304843902588,
+        "verdict": "AI-Likely",
+        "explanation": "Text analyzed with 99.98% confidence using roberta-base-openai-detector model",
+        "ok": true,
+        "type": "text"
+      },
+      "classification": "AI-Generated",
+      "fileType": "txt",
+      "timestamp": "2026-03-28T06:58:51.417Z",
+      "verificationUrl": "http://localhost:4000/api/certificate/verify/b2192e2ab8813ffea4e24b4570e28106",
+      "authenticityLink": "https://ai-trustchain.vercel.app/verify/b2192e2ab8813ffea4e24b4570e28106",
+      "txHash": "0x50d76e9933f9124ca2973494692cdc0ef69d21a989ec92f2601cc13acfccca5b"
+    },
+    {
+      "id": "f9e0369d71f1ad4a035788ce27d4d1ab",
+      "subject": "text-analysis.txt",
+      "analysisResult": {
+        "human_probability": 0.0001696414256002754,
+        "ai_probability": 0.9998303651809692,
+        "confidence": 0.9998303651809692,
+        "verdict": "AI-Likely",
+        "explanation": "Text analyzed with 99.98% confidence using roberta-base-openai-detector model",
+        "ok": true,
+        "type": "text"
+      },
+      "classification": "AI-Generated",
+      "fileType": "txt",
+      "timestamp": "2026-03-28T09:02:50.377Z",
+      "verificationUrl": "http://localhost:4000/api/certificate/verify/f9e0369d71f1ad4a035788ce27d4d1ab",
+      "authenticityLink": "https://ai-trustchain.vercel.app/verify/f9e0369d71f1ad4a035788ce27d4d1ab",
+      "txHash": "0xafce430c2270814ad483cd78c42fea62d642085dca1f371f72e6935ae4ca7255"
+    },
+    {
+      "id": "63d8b0082d6854e9d1f16065ac2f8bbd",
+      "subject": "text-analysis.txt",
+      "analysisResult": {
+        "human_probability": 0.09447126090526581,
+        "ai_probability": 0.905528724193573,
+        "confidence": 0.905528724193573,
+        "verdict": "AI-Likely",
+        "explanation": "Text analyzed with 90.55% confidence using roberta-base-openai-detector model",
+        "ok": true,
+        "type": "text"
+      },
+      "classification": "AI-Generated",
+      "fileType": "txt",
+      "timestamp": "2026-05-24T21:06:26.420Z",
+      "verificationUrl": "http://localhost:4000/api/certificate/verify/63d8b0082d6854e9d1f16065ac2f8bbd",
+      "authenticityLink": "https://ai-trustchain.vercel.app/verify/63d8b0082d6854e9d1f16065ac2f8bbd",
+      "txHash": "0x2831620b5e648a3fab047847f86f473752ff7317dc2e1dc88a37adff6acb8f40"
+    },
+    {
+      "id": "4f9725bf80e32adc0eba1de2a89a7216",
+      "subject": "text-analysis.txt",
+      "analysisResult": {
+        "human_probability": 0.47264426946640015,
+        "ai_probability": 0.5273557305335999,
+        "confidence": 0.5273557305335999,
+        "verdict": "AI-Likely",
+        "explanation": "Text analyzed with 52.74% confidence using roberta-base-openai-detector model",
+        "ok": true,
+        "type": "text"
+      },
+      "classification": "AI-Generated",
+      "fileType": "txt",
+      "timestamp": "2026-05-24T21:15:09.888Z",
+      "verificationUrl": "http://localhost:4000/api/certificate/verify/4f9725bf80e32adc0eba1de2a89a7216",
+      "authenticityLink": "https://ai-trustchain.vercel.app/verify/4f9725bf80e32adc0eba1de2a89a7216",
+      "txHash": "0xc405336b6b1cd0a1bcb48a479066b1201a662b3076bd224bb293e778884dbbc7"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "ai-trustchain-backend": "file:../.."
+  }
+}
